@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
 Run YOLOv5 detection inference on images, videos, directories, globs, YouTube, webcam, streams, etc.
@@ -24,7 +25,7 @@ Usage - formats:
                                  yolov5s_edgetpu.tflite     # TensorFlow Edge TPU
                                  yolov5s_paddle_model       # PaddlePaddle
 """
-# -*- coding: utf-8 -*-
+
 import argparse
 import os
 import platform
